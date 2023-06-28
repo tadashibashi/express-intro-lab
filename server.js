@@ -13,7 +13,7 @@ const app = express();
 app.set("view engine", "ejs");
 app.set("views", path.join(__dirname, "views"));
 
-// setup static file service path
+// setup static file service path. unused...
 app.use("/public", express.static("public"));
 
 // ===== routes ===============================================================
