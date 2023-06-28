@@ -2,6 +2,8 @@
 
 Demonstrates a simple server showing a list of students.
 
+Boilerplate reference to setup Express routing and EJS template engine.
+
 ## Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
